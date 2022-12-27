@@ -1,0 +1,10 @@
+.mais-pedidos{
+    @include margin_section;
+    @include align_center;
+    flex-direction: column;
+
+    &-items{
+        @include align_center;
+        gap: 16px;
+    }
+}

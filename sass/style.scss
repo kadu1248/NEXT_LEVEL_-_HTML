@@ -1,0 +1,16 @@
+//INITIAL CONFIG
+@import 'components/config/initial-config';
+@import 'components/config/fonts';
+@import 'components/config/containers';
+
+//MIXINS
+@import 'components/mixins/containers';
+
+//HEADER
+@import 'components/header/header';
+
+//PRINCIPAL
+@import 'components/main/tipbar';
+@import 'components/main/marcas';
+@import 'components/main/mais-pedidos';
+@import 'components/main/mini-produto';
